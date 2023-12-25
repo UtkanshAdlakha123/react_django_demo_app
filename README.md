@@ -5,3 +5,4 @@ docker-compose down
 docker-compose up -d
 
 done done
+ram ram
